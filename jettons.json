@@ -228,12 +228,12 @@
  },
  {
   "address": "0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83",
-  "description": "The coin of the #GRAMSUPERCYCLE. Powers Saturn, the capital house on TON \u2014 membership, launch access and commit capacity are all held in $GSC.",
+  "description": "The reward token of Saturn, the capital house on TON. Farm rewards are paid in GSC, and some launch rounds are gated on holding it. Supply is one billion, fixed; mint authority is renounced.",
   "image": "https://saturn.tg/tokens/gsc.png",
   "name": "Gram super cycle",
   "social": [
    "https://saturn.tg",
-   "https://t.me/hollowjournal"
+   "https://t.me/saturndottg"
   ],
   "symbol": "GSC"
  },
@@ -720,6 +720,21 @@
   "symbol": "ANDO",
   "websites": [
    "https://anubisdog.xyz"
+  ]
+ },
+ {
+  "address": "0:f8e95e1c77c7557d3392dc0665bb389ea8b6849f8fb50419c51ec2f52f42ef6b",
+  "decimals": 9,
+  "description": "ANF Protocol - Non-Custodial Hold-to-Mine and Reactor Staking Ecosystem on TON Blockchain.",
+  "image": "https://anf.quest/anf-logo.jpg",
+  "name": "ANF Protocol",
+  "social": [
+   "https://t.me/ANFProtocol",
+   "https://t.me/ANFProtocol_bot"
+  ],
+  "symbol": "ANF",
+  "websites": [
+   "https://anf.quest"
   ]
  },
  {
@@ -2377,6 +2392,25 @@
   ]
  },
  {
+  "address": "0:14d345bab29b5e647515e948a38069145cb4f564fe84e4d703098894b068ed2f",
+  "decimals": 9,
+  "description": "CROWN is the utility token of the Crownville game ecosystem on TON (Crownville, Basilisk, Crown Miner and Crownville Survivors Telegram mini-apps). Used for all in-game purchases (50% of every purchase is burned on-chain), daily mining rewards and holder bonuses. Team and mining allocations are locked in on-chain vesting contracts, DeDust LP is locked until September 2027.",
+  "image": "https://crown.crownville.online/crown256.png",
+  "name": "CROWN",
+  "social": [
+   "https://t.me/hificrownville",
+   "https://t.me/chathificrownville",
+   "https://t.me/CrownMinerBot",
+   "https://t.me/Crownvillebot"
+  ],
+  "symbol": "CROWN",
+  "websites": [
+   "https://crown.crownville.online",
+   "https://crownville.online",
+   "https://wiki.crownville.online"
+  ]
+ },
+ {
   "address": "0:50516a96f5fa550558d6052753df513e034a8008aadaa601ac2b6b529edeaff0",
   "description": "Learn crypto trading in a gamified way. Upgrade your character, master trading strategies, take part in tournaments, and earn tokens",
   "image": "https://github.com/Canabini/ton-assets/blob/main/logocrpm.png?raw=true",
@@ -3210,20 +3244,6 @@
   ]
  },
  {
-  "address": "0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b",
-  "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
-  "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
-  "name": "Pavel Durov",
-  "social": [
-   "https://t.me/PavelDurovOnTon",
-   "https://twitter.com/Durov_Tonchain"
-  ],
-  "symbol": "DUROV",
-  "websites": [
-   "https://durovton.com/"
-  ]
- },
- {
   "address": "0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208",
   "description": "DUST is the governance token for the DeDust Protocol.",
   "image": "ipfs://QmaZn8y3JndrePjeUbDQtByPV6ezHwP67pVaJG3WWpamLB",
@@ -3335,6 +3355,17 @@
   "websites": [
    "https://tonbutton.net/"
   ]
+ },
+ {
+  "address": "0:45d9f68a7377fa61936076b7ed804806178caa2969cdde00a4b3fba6fb890871",
+  "description": "\u0423\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0445 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439, \u0434\u0440\u0443\u0436\u0431\u044b \u0438 \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0445 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u0439",
+  "image": "https://pumpit-assets.t3.tigrisfiles.io/tokens/2026-09-05/213ba0e3-33f3-4a48-86e5-db0239bda29b.jpg",
+  "name": "Dmitryi and Family",
+  "social": [
+   "https://t.me/usdagembot",
+   "https://t.me/Dmitrys_friends"
+  ],
+  "symbol": "DAF"
  },
  {
   "address": "0:b0f816d021f24319e9eb6ac8f4486b9cf1f9014c83fdacd9d5ad22c476a7a18c",
@@ -6460,8 +6491,8 @@
  },
  {
   "address": "0:db2a2857319b8d7e5ee6ed570dac72326186200853e171c22a34dfe870d9fe3c",
-  "description": "The $LUDOMAN meme token was created by a team of like-minded people. Ludoman interacts with the audience and aims to bring together players from the world of WEB 2 and WEB 3.",
-  "image": "https://1000ludoman.xyz/logo-ludo.jpg",
+  "description": "LUDOMAN is a meme token built by players for players. It connects an active community, Web2 gaming culture and the world of Web3, with a focus on participation, interaction and community-driven development.",
+  "image": "https://raw.githubusercontent.com/Freebielife/Logo-Ludo/5a675433afa00797d62aac90227fe151ae3d282e/Logo.jpg",
   "name": "1000Ludoman",
   "social": [
    "https://t.me/ludoman_1000",
@@ -7138,6 +7169,21 @@
    "https://t.me/CreakyWheels"
   ],
   "symbol": "MPAK"
+ },
+ {
+  "address": "0:e3fb3952be3e00bb5e785e3b14ec04f3b75de9f098d812cd30795bf5ad56c225",
+  "description": "MRG is the utility token of Mine Rare Gram, a Telegram MiniApp also known as MRG Miner. It powers the ecosystem mining activities, rewards, user participation, and future utilities. MRG has a fixed total supply of 10 billion tokens.",
+  "image": "https://raw.githubusercontent.com/alex-dev-create/MRG-Miner-Assets/main/MRG%20Mascot.webp",
+  "name": "Mine Rare Gram",
+  "social": [
+   "https://t.me/mrgminer",
+   "https://x.com/MRG_Miner",
+   "https://youtube.com/@mrgminer-p6x"
+  ],
+  "symbol": "MRG",
+  "websites": [
+   "https://mrgtoken.xyz"
+  ]
  },
  {
   "address": "0:f97d70e350aa2f257bdee9ac7f60f86eaca702f82bb0fe105fbe3b4419dce2c1",
@@ -7938,6 +7984,19 @@
   ]
  },
  {
+  "address": "0:3ebb001ff040ff689197d8126f7b8fc46aab87805890c942a8a508ee70bc98fc",
+  "description": "Pew Lending platform bounty distribution token",
+  "image": "https://cdn.notwise.co/pew/jetton/logo.jpg",
+  "name": "Pew Coin",
+  "social": [
+   "https://t.me/pewtg"
+  ],
+  "symbol": "PEW",
+  "websites": [
+   "https://pew.tg"
+  ]
+ },
+ {
   "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
   "description": "$PGC is the native token of PiggyPiggy, the first workplace simulation and social game launched on Telegram and TON.",
   "image": "https://restaurant.piggypiggy.io/piggycoin.png",
@@ -8232,6 +8291,25 @@
   "symbol": "PRINTER",
   "websites": [
    "https://tonprinter.fun"
+  ]
+ },
+ {
+  "address": "0:5e51ed65fb6aa4058406c97fe6e95549f516a5c8071d21d9893440d7e4421faf",
+  "decimals": 9,
+  "description": "Utility token for PRISM STAR, an actively operated Telegram Mini App and Web anime card battle game featuring 300+ collectible cards, gacha, progression, equipment, boss battles, seasonal rankings, PRISM RUSH, completed Preseason rewards, live Season 1 competition, and TON-Solana interoperability through the official PRISM/wPRISM bridge.",
+  "image": "https://playprismstar.com/token/logo.png",
+  "name": "Prism Star",
+  "social": [
+   "https://x.com/PlayPrismStar",
+   "https://t.me/PrismStarOfficial",
+   "https://t.me/PrismStarCommunity"
+  ],
+  "symbol": "PRISM",
+  "websites": [
+   "https://playprismstar.com",
+   "https://playprismstar.com/token",
+   "https://playprismstar.com/whitepaper",
+   "https://app.playprismstar.com"
   ]
  },
  {
@@ -8893,6 +8971,20 @@
   "symbol": "RPC",
   "websites": [
    "https://rpc-token.com/"
+  ]
+ },
+ {
+  "address": "0:d34c41691d959c5193628cca7ac5085ed5a11d372b85c3e5087be0c0af3e7f6f",
+  "decimals": 9,
+  "description": "Utility and reward token on the TON blockchain.",
+  "image": "https://img.stonks.cash/54c467bd-d966-4be8-b32d-41e5d181040d.jpg",
+  "name": "RICHTON",
+  "social": [
+   "https://t.me/richton_bank"
+  ],
+  "symbol": "RTON",
+  "websites": [
+   "https://richtonbank.xyz"
   ]
  },
  {
@@ -10013,6 +10105,22 @@
   ]
  },
  {
+  "address": "0:d90998540257a41b6589ea7374986e5d1a7499292fb691effec2806f1f64e7a9",
+  "decimals": 9,
+  "description": "Token of the 957 games ecosystem with a fixed supply of 957,957,957 T957 (minting closed on-chain). Used for player welcome bonuses in the Kozyr card game.",
+  "image": "https://game.tema957.pro/t957/t957.jpg",
+  "name": "TEMA957",
+  "social": [
+   "https://t.me/TemIC_957",
+   "https://t.me/tema957_Game_bot/kozyr"
+  ],
+  "symbol": "T957",
+  "websites": [
+   "https://game.tema957.pro/t957/en/",
+   "https://game.tema957.pro/kozyr/"
+  ]
+ },
+ {
   "address": "0:1ef72ed45e14e38451a1e14d7b3c29377e0aa36444601a75df70855b8bc6647d",
   "description": "TADA is the utility token of Ta-da, a platform that organizes crowds to provide high-quality data to AI",
   "image": "https://tada-production-static-files.s3.eu-west-3.amazonaws.com/logo.png",
@@ -10557,7 +10665,7 @@
   ],
   "symbol": "TNT",
   "websites": [
-   "https://talents.wtf"
+   "https://talents.tg"
   ]
  },
  {
@@ -11430,6 +11538,22 @@
   ]
  },
  {
+  "address": "0:a56f887c5a7ab1f97fec28c144c6ac5c42eb0292d94c1f1619d8cf3403f5a79c",
+  "decimals": 9,
+  "description": "VIC is the native token of Victor's Company, a Proof-of-Holding mining game on TON inside Telegram. Hold VIC to level up, mine every 24 hours, and explore Deep Mine to dig through five layers, discover treasures, and earn VIC. Progress from Rookie Digger to CEO, with payday landing on-chain.",
+  "image": "https://www.victors.company/assets/logo.webp",
+  "name": "Victor's Company",
+  "social": [
+   "https://t.me/victors_company",
+   "https://x.com/VictorsCompany",
+   "https://youtube.com/@victorscompany"
+  ],
+  "symbol": "VIC",
+  "websites": [
+   "https://victors.company"
+  ]
+ },
+ {
   "address": "0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506",
   "description": "Vilarsofree \u044d\u0442\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u0432 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c. \u0425\u0440\u0430\u043d\u0438, \u043f\u043e\u043a\u0443\u043f\u0430\u0439/\u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0439 \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0439 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0442\u0435\u043c, \u043a\u0442\u043e \u0434\u043e\u0441\u0442\u043e\u0438\u043d \u0431\u044b\u0442\u044c \u0442\u0440\u0435\u0439\u0434\u0435\u0440\u043e\u043c, \u043a\u0440\u0438\u043f\u0442\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u043e\u043c, \u0433\u0440\u0430\u043c\u043e\u0442\u043d\u044b\u043c \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440\u043e\u043c, \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u043c \u043f\u0430\u0440\u0442\u043d\u0451\u0440\u043e\u043c \u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0445\u043e\u0440\u043e\u0448\u0438\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u043f\u043e \u0436\u0438\u0437\u043d\u0438. Vilarso",
   "image": "https://storage.dyor.io/jettons/EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d/image.jpeg",
@@ -11954,6 +12078,19 @@
   "symbol": "YOLKY"
  },
  {
+  "address": "0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12",
+  "description": "The token of the Yolky product suite on Telegram and TON. Product revenue goes to the treasury, which buys YOLKY back on the open market.",
+  "image": "https://yolkytheegg.com/assets/img/logo-yolky-round.png",
+  "name": "YOLKY the EGG",
+  "social": [
+   "https://t.me/yolkytheegg"
+  ],
+  "symbol": "YOLKY",
+  "websites": [
+   "https://yolkytheegg.com"
+  ]
+ },
+ {
   "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
   "description": "Youllonx! The token of blogger Sergey Poddubny. Follow the news on the TG channel and find out what will happen next.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvf7txv_a-vaznojrxfuq4fwxmb6eyespb7miaci4pffpr.png",
@@ -12128,6 +12265,23 @@
   "websites": [
    "https://zackermanbank.com"
   ]
+ },
+ {
+  "address": "0:a1ea8ea5e37eb074bafb91b479b8147b79750654dd02089f0c1123201731a8e4",
+  "decimals": 9,
+  "description": "Zoom is a web3 project featuring 3D voxel mechanics, marketplaces, and daily user challenges.",
+  "image": "https://i.postimg.cc/Pf1Cywt4/Whats-App-Image-2026-08-20-at-02-14-01.jpg",
+  "name": "Zoom",
+  "social": [
+   "https://t.me/zoomverse_0",
+   "https://t.me/ZoomVerse_bot",
+   "https://x.com/zoomversebot",
+   "https://discord.gg/uWZktCtD6Z",
+   "https://youtube.com/@zoomverseworld",
+   "https://www.instagram.com/zoomverse0100",
+   "https://www.tiktok.com/@zoom01002"
+  ],
+  "symbol": "ZMC"
  },
  {
   "address": "0:be840c26495809ee20d43dcd38e450771c84ac3e369545e6a413f380ed8c4f9e",
@@ -18902,6 +19056,17 @@
   ]
  },
  {
+  "address": "0:ba5fee032a8bbb95bf819bbd8817c8843d9551618c8cdd54de4a73ab34a1be87",
+  "description": "The first memecoin born from UTYA liquidity. Pooled directly in UTYA. 1% of transaction fees are automatically converted to UTYA and distributed to holders.",
+  "image": "https://coffee-important-lamprey-950.mypinata.cloud/ipfs/bafkreiany2q7ussdknsohovxfz7xxzswsck36ynk3jmg6yw7p5wtipo3xq",
+  "name": "EGG",
+  "social": [
+   "https://t.me/egg_gram",
+   "https://x.com/utya_egg"
+  ],
+  "symbol": "EGG"
+ },
+ {
   "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
   "description": "Telegram created and posted this meme in 2021. It is the first meme they shared on Twitter and one of their first post. The original post at the time of discovery has 0 comments and 4 likes. Nobody ever seen this memes. Telegram ships features quickly. Their meme Gotta go Fast makes sense",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0716.jpeg",
@@ -21830,11 +21995,6 @@
   "address": "0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72",
   "name": "Meme Inc",
   "symbol": "YOBA"
- },
- {
-  "address": "0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12",
-  "name": "YOLKY the EGG",
-  "symbol": "YOLKY"
  },
  {
   "address": "0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901",
